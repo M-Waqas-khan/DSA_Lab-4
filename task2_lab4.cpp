@@ -2,6 +2,7 @@
 using namespace std;
 int main()
 {
+    
    int search;
     cout<<"Enter value to Search : ";
     cin>>search;
